@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SubmitButton /> - Component renders correctly 1`] = `
+<DocumentFragment>
+  <button
+    class="SubmitButton "
+    type="submit"
+  >
+    Pay $25
+  </button>
+</DocumentFragment>
+`;

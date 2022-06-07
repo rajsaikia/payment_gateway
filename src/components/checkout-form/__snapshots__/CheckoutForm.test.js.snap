@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CheckoutForm /> - Component renders correctly 1`] = `
+<DocumentFragment>
+  <form
+    class="Form"
+  >
+    <fieldset
+      class="FormGroup"
+    >
+      <div
+        class="FormRow"
+      >
+        <label
+          class="FormRowLabel"
+          for="name"
+        >
+          Name
+        </label>
+        <input
+          autocomplete="name"
+          class="FormRowInput"
+          id="name"
+          placeholder="Jane Doe"
+          required=""
+          type="text"
+          value=""
+        />
+      </div>
+      <div
+        class="FormRow"
+      >
+        <label
+          class="FormRowLabel"
+          for="email"
+        >
+          Email
+        </label>
+        <input
+          autocomplete="email"
+          class="FormRowInput"
+          id="email"
+          placeholder="janedoe@gmail.com"
+          required=""
+          type="email"
+          value=""
+        />
+      </div>
+      <div
+        class="FormRow"
+      >
+        <label
+          class="FormRowLabel"
+          for="phone"
+        >
+          Phone
+        </label>
+        <input
+          autocomplete="tel"
+          class="FormRowInput"
+          id="phone"
+          placeholder="(941) 555-0123"
+          required=""
+          type="tel"
+          value=""
+        />
+      </div>
+    </fieldset>
+    <fieldset
+      class="FormGroup"
+    >
+      <div
+        class="FormRow"
+      >
+        <div />
+      </div>
+    </fieldset>
+    <button
+      class="SubmitButton "
+      disabled=""
+      type="submit"
+    >
+      Pay $25
+    </button>
+  </form>
+</DocumentFragment>
+`;
